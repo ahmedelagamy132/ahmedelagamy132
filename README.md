@@ -55,7 +55,7 @@
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/ahmedelagamy132/ahmedelagamy132/output/github-contribution-grid-snake.svg" />
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
   
   <br/><br/><br/>
 </div>
@@ -70,6 +70,14 @@
   <br/>
   <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=salesp07&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
+
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=js,html,css,wasm)
+
+<p align="center">
+  <a href="https://go-skill-icons.vercel.app/">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=c,vim,bootstrap,canva,excel,jupyter,kaggle,leetcode,lucidchart,replit,powershell,pandas,scikitlearn	" />
+  </a>        
+</p>
 
 <br/><br/>
 
