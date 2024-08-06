@@ -45,11 +45,14 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=python,flask,mongodb,postgres,git,github,docker,ubuntu,vscode,linux,postman,stackoverflow" />
-    <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,discord,anaconda,azure,bash,cpp,gmail,md,notion,powershell" /><br>
+    <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,discord,anaconda,azure,bash,cpp,gmail,md,notion,powershell" />
+    
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=c,vim,bootstrap,canva,excel,jupyter,kaggle,leetcode,lucidchart,replit,powershell,pandas,scikitlearn)
+
 </div>
 
 
-<br/>
+
 <hr/>
 
 <div align="center">
@@ -71,18 +74,13 @@
   <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=salesp07&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
 
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=js,html,css,wasm)
 
-<p align="center">
-  <a href="https://go-skill-icons.vercel.app/">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=c,vim,bootstrap,canva,excel,jupyter,kaggle,leetcode,lucidchart,replit,powershell,pandas,scikitlearn	" />
-  </a>        
-</p>
 
-<br/><br/>
+
+
 
 <hr/>
 
-<br/>
+
 
 <br/>
