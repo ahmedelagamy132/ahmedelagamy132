@@ -44,8 +44,8 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=python,flask,mongodb,postgres,git,github,docker,ubuntu,vscode,linux,postman" />
-    <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,discord,anaconda,azure,bash,cpp,gmail,md,notion,powershell,stackoverflow" /><br>
+    <img src="https://skillicons.dev/icons?i=python,flask,mongodb,postgres,git,github,docker,ubuntu,vscode,linux,postman,stackoverflow" />
+    <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,discord,anaconda,azure,bash,cpp,gmail,md,notion,powershell" /><br>
 </div>
 
 
